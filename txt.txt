@@ -1,3 +1,7 @@
 # HTML_ALF 
 gggguyyyyyyyyyyyyyyyyy
+<<<<<<< HEAD
 Эти изменения верны
+=======
+Эти изменения dthys
+>>>>>>> second_branch
